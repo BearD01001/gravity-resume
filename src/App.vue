@@ -2,11 +2,10 @@
   #app
 </template>
 
-<script>
+<script lang="ts">
 import Vue from 'vue'
 import Component from 'vue-class-component'
 
 @Component
-export default class App extends Vue {
-}
+export default class App extends Vue {}
 </script>
