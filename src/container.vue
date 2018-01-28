@@ -1,5 +1,6 @@
 <template lang="pug">
-  #app
+  #gravity-resume
+    #resume
 </template>
 
 <script lang="ts">
